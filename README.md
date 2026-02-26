@@ -1,5 +1,7 @@
 [简体中文](./README.zh.md)
 
+> **Notice:** This project is no longer actively maintained. Please try [sample-comfyui-on-hyperpod](https://github.com/aws-samples/sample-comfyui-on-hyperpod) instead.
+
 ## What's this
 
 It's a solution to deploy ComfyUI on Amazon EKS.

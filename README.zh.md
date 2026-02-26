@@ -1,5 +1,7 @@
 [English](./README.md)
 
+> **注意：** 本项目后续不再更新。请尝试 [sample-comfyui-on-hyperpod](https://github.com/aws-samples/sample-comfyui-on-hyperpod)。
+
 ## 这是个什么
 
 这是一个在 Amazon EKS 上部署 ComfyUI 的方案。
